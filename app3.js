@@ -1,1 +1,1 @@
-var aa;
+var aa = 3;
